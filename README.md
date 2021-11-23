@@ -5,7 +5,8 @@ Nazywam się Adrian. Jestem studentem ISI na AGH 💬
 
 Polecam śledzić moją pracę ⚡⚡
 
-[Moja strona internetowa](https://mynameisarko.github.io/)
+[Moja strona internetowa na githubie](https://mynameisarko.github.io/)
+[Moja strona internetowa na Azure](http://mynameisarko.azurewebsites.net/)
 
 <!--
 **MyNameIsArko/MyNameIsArko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
