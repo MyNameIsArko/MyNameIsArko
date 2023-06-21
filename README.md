@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameisarko&label=Profile%20views&color=0e75b6&style=flat" alt="mynameisarko" /> </p>
 
-- 🔭 I’m currently working on [RL-Flax](https://github.com/MyNameIsArko/RL-Flax)
+- 🔭 I’m currently working on implementing Image detection algorithms
 
 - 🌱 I’m currently learning **ML algorithms with Pytorch, Jax+Flax and Ray**
 
